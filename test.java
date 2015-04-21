@@ -4,9 +4,9 @@ public class Test{
 	private String Tamere;
 	public int zizi;
 	
-	public Test(String t, tam) {
+	public Test(String t, tam, int x) {
 		t = t;
 		tamere = tam;
-	
+		x++;
 	}
 }
